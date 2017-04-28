@@ -7,7 +7,7 @@ public class TestMessage {
 	
 	@Test
 	public void testMessage(){
-		String m = "hola Test";
+		String m = "hola desde el Test";
 		assertEquals("hola",m);
 	}
 
